@@ -8,6 +8,7 @@ class Shoe
   end 
   
   def cobble
+    outs 
   end 
   
 end 
