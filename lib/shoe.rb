@@ -30,6 +30,7 @@ class Shoe
   def material
     @material
     
+    def condition
     
     
     
